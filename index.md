@@ -1,14 +1,6 @@
-# 我的博客
+# blog-HuiTurn
 
-欢迎来到我的博客！  
-这是一个基于 GitHub Pages 的博客，使用 JustResume 平台编辑和管理。
+由 [JustResume](https://justresume.com) 自动生成的 GitHub Pages 站点。
 
-## 关于
 
-## 文章
-
-文章将保存在 `posts/` 目录下。
-
-![](images/1769473018257-sxpu3r.png)
-
-![](images/1769473003375-d28v39.png)
+这是一个极简的站点首页，你可以在仓库中编辑 `index.md` 来自定义内容。
