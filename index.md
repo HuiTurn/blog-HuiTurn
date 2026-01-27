@@ -9,3 +9,5 @@
 ## 文章
 
 文章将保存在 `posts/` 目录下。
+
+![](http://localhost:8787/api/content/image?type=blog&repoId=7&path=images%2F1769473003375-d28v39.png)
