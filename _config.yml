@@ -1,5 +1,5 @@
 # Jekyll 配置
-theme: jekyll-theme-slate
+theme: jekyll-theme-minima
 
 # 站点设置
 title: "blog-HuiTurn"
