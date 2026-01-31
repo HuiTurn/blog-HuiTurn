@@ -1,0 +1,18 @@
+# Jekyll 配置
+theme: jekyll-theme-slate
+
+# 站点设置
+title: "blog-HuiTurn"
+description: "由 JustResume 生成的 blog 站点"
+
+# 构建设置
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
